@@ -1,6 +1,6 @@
 openapi: 3.0.1
 info:
-  title: Department API Proxy jkisdsdsd---------------
+  title: Department API Proxy jkisdsdsd---------------kk
   description: API for retrieving department information by ID.
   version: 1.0.0
 servers:
