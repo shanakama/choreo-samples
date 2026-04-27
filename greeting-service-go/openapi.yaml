@@ -13,7 +13,7 @@ paths:
         - name: name
           in: query
           description: Name of the person to greet
-          required: false
+          required: fal
           schema:
             type: string
       responses:
